@@ -444,7 +444,7 @@ h1{
     padding-right: 30px;
     padding-left: 30px;
     height: 100%;
-    overflow:auto;
+    overflow-y:auto;
 }
 .sideNote{
     margin-top: -15px;
