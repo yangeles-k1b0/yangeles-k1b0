@@ -389,6 +389,7 @@ h1{
     margin-bottom: 20%;
 }
 #checkOutPage{
+    padding:auto;
     position: fixed;
     z-index: 600;
     width: 100%;
@@ -398,7 +399,6 @@ h1{
 .formContainer{
     overflow: auto;
     background-color: white;
-    margin-top: 5%;
     height: 80%;
     width: 60%;
     padding: 0px;
@@ -444,7 +444,6 @@ h1{
     padding-right: 30px;
     padding-left: 30px;
     height: 100%;
-    overflow:auto;
 }
 .sideNote{
     margin-top: -15px;
