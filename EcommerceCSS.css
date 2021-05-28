@@ -397,7 +397,7 @@ h1{
     background-color: rgba(88, 96, 107,0.9);
 }
 .formContainer{
-    overflow: auto;
+    overflow-y: auto;
     background-color: white;
     height: 80%;
     width: 60%;
